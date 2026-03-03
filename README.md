@@ -103,7 +103,11 @@ cd MCP_MultiUsage_Application
 python -m venv .venv  
 .venv\Scripts\activate  
 
-pip install -r requirements.txt  
+pip install -r requirements.txt
+
+## 🏗 Architecture Diagram
+
+![Architecture](docs/architecture.png)
 
 # Add your .env file with API keys  
 
