@@ -1,0 +1,28 @@
+# -----------------------------
+# Core MCP (Python SDK)
+# -----------------------------
+mcp>=1.0.0
+
+# -----------------------------
+# LangChain core + providers
+# -----------------------------
+langchain>=0.2.0
+langchain-core>=0.2.0
+
+langchain-openai>=0.1.7
+langchain-google-genai>=1.0.3
+langchain-groq>=0.1.4
+
+langchain-mcp-adapters>=0.1.0
+
+# -----------------------------
+# HTTP & Environment
+# -----------------------------
+requests>=2.31.0
+python-dotenv>=1.0.1
+
+google-auth 
+google-auth-oauthlib 
+google-api-python-client
+
+gradio
