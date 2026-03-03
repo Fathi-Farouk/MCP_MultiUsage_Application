@@ -1,0 +1,24 @@
+//.gitignore is a configuration file that tells Git which files/folders it must NOT track or upload to the repository.//
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
